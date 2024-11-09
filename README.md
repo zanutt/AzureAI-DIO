@@ -1,4 +1,4 @@
-Esses projeto é um fluxo básico para tradução de textos e documentos, com integração à API do Azure para processamento de linguagem natural e extração de conteúdo da web. ​
+Esse projeto é um fluxo básico para tradução de textos e documentos, com integração à API do Azure para processamento de linguagem natural e extração de conteúdo da web. ​
 
 1. Azure_translate.py
 Este script lida com traduções de texto e documentos usando a API Microsoft Translator, integrada via requisições HTTP. Os principais elementos incluem:
